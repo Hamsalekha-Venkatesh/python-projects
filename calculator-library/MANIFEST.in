@@ -1,0 +1,2 @@
+include calculator-library/*.png
+global-include *.txt *.py
