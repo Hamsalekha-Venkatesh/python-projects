@@ -14,7 +14,7 @@ setup(
     description='A very basic calculator',
     long_description=open('README.md').read() + '\n\n',
     url='',
-    author='Hamsalekha Venklatesh',
+    author='Hamsalekha Venkatesh',
     author_email='hamsa@gmail.com',
     license='MIT',
     classifiers=classifiers,
